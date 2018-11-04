@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidSyncAdapter</string>
+    <string name="authority">com.android.syncAdapter</string>
+</resources>
